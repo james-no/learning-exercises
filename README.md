@@ -15,6 +15,8 @@ javascript/   # JavaScript exercises
 ### Block Letters
 ASCII art of my initials using `print()` statements and multi-line strings.
 
+*From: Codecademy Python 3 course*
+
 **What I learned:**
 - Using `print()` statements
 - Working with multi-line strings
