@@ -13,7 +13,7 @@ javascript/   # JavaScript exercises
 ## Python Projects
 
 ### Block Letters
-My first Python project! Created ASCII art of my initials using `print()` statements.
+ASCII art of my initials using `print()` statements and multi-line strings.
 
 **What I learned:**
 - Using `print()` statements
