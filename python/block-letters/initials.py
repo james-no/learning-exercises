@@ -1,4 +1,4 @@
-# Block Letters - My First Python Project
+# Block Letters
 # James No
 # First initial: J, Last initial: N
 
